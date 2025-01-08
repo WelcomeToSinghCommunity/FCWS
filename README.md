@@ -21,6 +21,7 @@ Start by cloning this repo to your local machine:
 ```bash
 git clone https://github.com/your-username/forward-collision-warning.git
 cd forward-collision-warning
+```
 
 ### ⚡ **Install dependencies**
 
@@ -29,6 +30,7 @@ Set up your environment and install the necessary libraries:
 python3 -m venv venv
 source venv/bin/activate    # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
+```
 
 ## 🎥 **How It Works**
 
