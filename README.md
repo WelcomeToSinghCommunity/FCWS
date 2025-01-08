@@ -46,25 +46,25 @@ pip install -r requirements.txt
 
 │
 
-├── main.py                 # Main script to run the FCW system
+├── main.py                       # Main script to run the FCW system
 
-├── fcw_code.cpp            # C++ module for real-time video processing
+├── fcw_code.cpp                  # C++ module for real-time video processing
 
-├── object_detection.py     # YOLOv5-based object detection
+├── object_detection.py           # YOLOv5-based object detection
 
-├── my_utils.py             # Utility functions for distance calculations
+├── my_utils.py                   # Utility functions for distance calculations
 
-├── compliance_checker.py   # Monitors compliance with safety distance
+├── compliance_checker.py         # Monitors compliance with safety distance
 
-├── code_generator.py       # Generates e-challans or reports
+├── code_generator.py             # Generates e-challans or reports
 
-├── test_case_generator.py  # Generates test cases for system validation
+├── test_case_generator.py        # Generates test cases for system validation
 
-├── requirements.txt        # Python dependencies
+├── requirements.txt              # Python dependencies
 
-├── test_video.mp4          # Sample video for testing
+├── test_video.mp4                # Sample video for testing
 
-└── README.md               # This file
+└── README.md                     # This file
 
 ## 🛠️ **Technology Used**
 
