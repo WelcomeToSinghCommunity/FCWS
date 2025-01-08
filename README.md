@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## 📁 **Project Structure**
 
-forward-collision-warning/
+/forward-collision-warning
 │
 ├── main.py                 # Main script to run the FCW system
 ├── fcw_code.cpp            # C++ module for real-time video processing
