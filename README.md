@@ -19,7 +19,7 @@ This project implements a **Forward Collision Warning (FCW) System** that levera
 
 Start by cloning this repo to your local machine:
 ```bash
-git clone https://github.com/your-username/forward-collision-warning.git
+git clone https://github.com/WelcomeToSinghCommunity/forward-collision-warning.git
 cd forward-collision-warning
 ```
 
